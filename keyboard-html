@@ -1,0 +1,42 @@
+<html> 
+    <h1>Evaluating mechanical keyboard </h1>
+    <p> do you use  a computer keyboard </p>
+    <p> have you considered <span style="color: darkred" </span>  mechanical keyboard </p>
+        <div style="text-align: right ;"
+  <h2>full-size keyboard </h2>
+<p> full size keyboard are usually about 17inches wide</p>
+        </div>
+        <p> full size keyboard usually contain between 104 and 108 keys</p>
+        <img src="image/key.jpg"/>
+       <table 
+       <table style="border: 2px solid black;">
+           <tr>  
+            <th>    name    </th>  
+           <th>     type    </th>
+           <th>     color   </th>
+           </tr>
+
+           <tr style= "height: 10px" >
+              <td>benz</td>
+              <td>2004</td>
+              <td>blue</td>
+            
+            </tr>
+            <tr>
+                <td>toyota</td>
+                <td>2100</td>
+                <td>red</td>
+            </tr>
+            <tr style="height: 10px;"> 
+                <td>camry</td>
+                <td>2092</td>
+                <td>green</td>
+            </tr>
+      </table>
+
+
+
+
+
+
+</html>
